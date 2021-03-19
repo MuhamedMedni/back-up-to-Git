@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="value" label="Value" language="en" table="x_353381_back_up_t_some_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>value</element>
+            <help/>
+            <hint/>
+            <label>Value</label>
+            <language>en</language>
+            <name>x_353381_back_up_t_some_table</name>
+            <plural>Values</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-19 13:21:17</sys_created_on>
+            <sys_id>4d81fb2cff072010af6d87f8b721f1b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Value</sys_name>
+            <sys_package display_value="back up to Git" source="x_353381_back_up_t">ff01ffe8ff072010af6d87f8b721f100</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="back up to Git">ff01ffe8ff072010af6d87f8b721f100</sys_scope>
+            <sys_update_name>sys_documentation_x_353381_back_up_t_some_table_value_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-19 13:21:17</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

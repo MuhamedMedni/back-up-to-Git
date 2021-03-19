@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_353381_back_up_t_some_table</description>
+        <name>x_353381_back_up_t_some_table</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-19 13:21:16</sys_created_on>
+        <sys_id>f881fb2cff072010af6d87f8b721f176</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_353381_back_up_t_some_table</sys_name>
+        <sys_package display_value="back up to Git" source="x_353381_back_up_t">ff01ffe8ff072010af6d87f8b721f100</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="back up to Git">ff01ffe8ff072010af6d87f8b721f100</sys_scope>
+        <sys_update_name>sys_security_acl_f881fb2cff072010af6d87f8b721f176</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-19 13:21:16</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
